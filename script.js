@@ -1,3 +1,4 @@
+// i have used strict mode in this js file
 'use strict';
 // Selecting elements
 const score0El = document.getElementById('score--0');
