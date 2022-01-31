@@ -1,4 +1,5 @@
 // i have used strict mode in this js file
+// using strict mode is best practice
 'use strict';
 // Selecting elements
 const score0El = document.getElementById('score--0');
