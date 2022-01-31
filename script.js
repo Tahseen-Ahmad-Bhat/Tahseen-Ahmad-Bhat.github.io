@@ -108,4 +108,4 @@ btnHold.addEventListener('click', () => {
   }
 });
 
-btnNew.addEventListener('click', inIt); // To call the
+btnNew.addEventListener('click', inIt); // calling inIt function on this event
